@@ -1,0 +1,6 @@
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\03. Array Test\bin\Debug\_03.Array_Test.exe.config
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\03. Array Test\bin\Debug\_03.Array_Test.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\03. Array Test\bin\Debug\_03.Array_Test.pdb
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\03. Array Test\obj\Debug\_03.Array_Test.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\03. Array Test\obj\Debug\_03.Array_Test.pdb
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\03. Array Test\obj\Debug\03. Array Test.csprojResolveAssemblyReference.cache

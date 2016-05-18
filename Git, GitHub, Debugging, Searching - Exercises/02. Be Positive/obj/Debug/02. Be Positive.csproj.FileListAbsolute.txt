@@ -1,0 +1,6 @@
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\02. Be Positive\bin\Debug\_02.Be_Positive.exe.config
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\02. Be Positive\bin\Debug\_02.Be_Positive.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\02. Be Positive\bin\Debug\_02.Be_Positive.pdb
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\02. Be Positive\obj\Debug\_02.Be_Positive.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\02. Be Positive\obj\Debug\_02.Be_Positive.pdb
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\02. Be Positive\obj\Debug\02. Be Positive.csprojResolveAssemblyReference.cache

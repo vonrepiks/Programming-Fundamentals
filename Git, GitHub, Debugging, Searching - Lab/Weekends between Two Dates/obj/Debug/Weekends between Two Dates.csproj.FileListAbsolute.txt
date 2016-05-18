@@ -1,0 +1,6 @@
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.exe.config
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.pdb
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Weekends between Two Dates\obj\Debug\Weekends between Two Dates.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Weekends between Two Dates\obj\Debug\Weekends between Two Dates.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Weekends between Two Dates\obj\Debug\Weekends between Two Dates.pdb

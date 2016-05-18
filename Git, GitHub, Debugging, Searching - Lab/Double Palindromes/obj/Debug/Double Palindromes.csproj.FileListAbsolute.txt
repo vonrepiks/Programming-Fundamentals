@@ -1,0 +1,6 @@
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Double Palindromes\bin\Debug\Double Palindromes.exe.config
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Double Palindromes\obj\Debug\Double Palindromes.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Double Palindromes\bin\Debug\Double Palindromes.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Double Palindromes\bin\Debug\Double Palindromes.pdb
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Double Palindromes\obj\Debug\Double Palindromes.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Lab\Double Palindromes\obj\Debug\Double Palindromes.pdb

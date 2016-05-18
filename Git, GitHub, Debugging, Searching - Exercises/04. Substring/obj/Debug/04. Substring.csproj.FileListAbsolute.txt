@@ -1,0 +1,6 @@
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\04. Substring\bin\Debug\_04.Substring.exe.config
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\04. Substring\bin\Debug\_04.Substring.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\04. Substring\bin\Debug\_04.Substring.pdb
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\04. Substring\obj\Debug\_04.Substring.exe
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\04. Substring\obj\Debug\_04.Substring.pdb
+D:\SoftUni\3. Programming Basics Exams\Git, GitHub, Debugging, Searching - Exercises\04. Substring\obj\Debug\04. Substring.csprojResolveAssemblyReference.cache
