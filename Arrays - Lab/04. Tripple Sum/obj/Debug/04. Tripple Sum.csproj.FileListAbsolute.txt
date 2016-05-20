@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Fundametals\Arrays - Lab\04. Tripple Sum\bin\Debug\_04.Tripple_Sum.exe.config
+D:\SoftUni\Programming Fundametals\Arrays - Lab\04. Tripple Sum\bin\Debug\_04.Tripple_Sum.exe
+D:\SoftUni\Programming Fundametals\Arrays - Lab\04. Tripple Sum\bin\Debug\_04.Tripple_Sum.pdb
+D:\SoftUni\Programming Fundametals\Arrays - Lab\04. Tripple Sum\obj\Debug\04. Tripple Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Fundametals\Arrays - Lab\04. Tripple Sum\obj\Debug\_04.Tripple_Sum.exe
+D:\SoftUni\Programming Fundametals\Arrays - Lab\04. Tripple Sum\obj\Debug\_04.Tripple_Sum.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\02. Practice Floating Points\obj\Debug\02. Practice Floating Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

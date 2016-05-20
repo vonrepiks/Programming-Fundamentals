@@ -1,0 +1,5 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

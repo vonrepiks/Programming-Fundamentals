@@ -1,0 +1,9 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Lab\01. Centuries to Minutes\obj\Debug\01. Centuries to Minutes.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Lab\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Lab\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.pdb
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Lab\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.exe
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Lab\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.pdb

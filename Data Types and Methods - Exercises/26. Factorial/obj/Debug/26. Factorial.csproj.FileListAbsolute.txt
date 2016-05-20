@@ -1,0 +1,2 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\26. Factorial\bin\Debug\_26.Factorial.exe.config
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\26. Factorial\bin\Debug\_26.Factorial.exe.config

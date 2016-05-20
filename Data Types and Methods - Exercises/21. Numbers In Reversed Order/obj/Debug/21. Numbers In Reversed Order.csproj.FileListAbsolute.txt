@@ -1,0 +1,5 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\21. Numbers In Reversed Order\obj\Debug\_21.Numbers_In_Reversed_Order.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\21. Numbers In Reversed Order\obj\Debug\_21.Numbers_In_Reversed_Order.pdb

@@ -1,0 +1,12 @@
+D:\SoftUni\Objects and Classes\Sales Report\bin\Debug\Sales Report.exe.config
+D:\SoftUni\Objects and Classes\Sales Report\bin\Debug\Sales Report.exe
+D:\SoftUni\Objects and Classes\Sales Report\bin\Debug\Sales Report.pdb
+D:\SoftUni\Objects and Classes\Sales Report\obj\Debug\Sales Report.csprojResolveAssemblyReference.cache
+D:\SoftUni\Objects and Classes\Sales Report\obj\Debug\Sales Report.exe
+D:\SoftUni\Objects and Classes\Sales Report\obj\Debug\Sales Report.pdb
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Sales Report\bin\Debug\Sales Report.exe.config
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Sales Report\obj\Debug\Sales Report.exe
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Sales Report\obj\Debug\Sales Report.pdb
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Sales Report\bin\Debug\Sales Report.exe
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Sales Report\bin\Debug\Sales Report.pdb
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Sales Report\obj\Debug\Sales Report.csprojResolveAssemblyReference.cache

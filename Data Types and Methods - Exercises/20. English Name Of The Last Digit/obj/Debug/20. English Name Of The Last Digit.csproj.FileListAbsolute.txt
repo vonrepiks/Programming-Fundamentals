@@ -1,0 +1,8 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\20. English Name Of The Last Digit\obj\Debug\_20.English_Name_Of_The_Last_Digit.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\20. English Name Of The Last Digit\obj\Debug\_20.English_Name_Of_The_Last_Digit.pdb
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.exe.config
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\20. English Name Of The Last Digit\obj\Debug\_20.English_Name_Of_The_Last_Digit.exe
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\20. English Name Of The Last Digit\obj\Debug\_20.English_Name_Of_The_Last_Digit.pdb

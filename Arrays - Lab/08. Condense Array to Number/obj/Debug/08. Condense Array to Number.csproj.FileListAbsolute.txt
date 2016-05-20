@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Fundametals\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+D:\SoftUni\Programming Fundametals\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+D:\SoftUni\Programming Fundametals\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+D:\SoftUni\Programming Fundametals\Arrays - Lab\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Fundametals\Arrays - Lab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+D:\SoftUni\Programming Fundametals\Arrays - Lab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

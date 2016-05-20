@@ -1,0 +1,7 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\05. Boolean Variable\obj\Debug\05. Boolean Variable.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

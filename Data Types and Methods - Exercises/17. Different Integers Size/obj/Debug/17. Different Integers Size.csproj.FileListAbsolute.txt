@@ -1,0 +1,9 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\17. Different Integers Size\obj\Debug\17. Different Integers Size.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.pdb
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe.config
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.exe
+D:\SoftUni\Programming Fundametals\Data Types and Methods - Exercises\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.pdb

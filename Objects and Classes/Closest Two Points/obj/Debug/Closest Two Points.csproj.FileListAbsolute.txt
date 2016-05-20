@@ -1,0 +1,18 @@
+D:\SoftUni\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.exe.config
+D:\SoftUni\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.exe
+D:\SoftUni\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.pdb
+D:\SoftUni\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.exe
+D:\SoftUni\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.pdb
+D:\SoftUni\2. Phase of Basic\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.exe.config
+D:\SoftUni\2. Phase of Basic\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.exe
+D:\SoftUni\2. Phase of Basic\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.pdb
+D:\SoftUni\2. Phase of Basic\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.exe
+D:\SoftUni\2. Phase of Basic\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.pdb
+D:\SoftUni\2. Phase of Basic\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.exe.config
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.exe
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.pdb
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.exe
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Closest Two Points\bin\Debug\Closest Two Points.pdb
+D:\SoftUni\Programming Basic\2. Phase of Basic\Objects and Classes\Closest Two Points\obj\Debug\Closest Two Points.csprojResolveAssemblyReference.cache

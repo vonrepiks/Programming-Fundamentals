@@ -1,0 +1,5 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\22. Fibonacci Numbers\obj\Debug\_22.Fibonacci_Numbers.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\22. Fibonacci Numbers\obj\Debug\_22.Fibonacci_Numbers.pdb

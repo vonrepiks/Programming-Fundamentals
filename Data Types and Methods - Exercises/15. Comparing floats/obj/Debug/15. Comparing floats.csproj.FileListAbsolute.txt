@@ -1,0 +1,6 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\15. Comparing floats\bin\Debug\_15.Comparing_floats.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\15. Comparing floats\bin\Debug\_15.Comparing_floats.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\15. Comparing floats\bin\Debug\_15.Comparing_floats.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\15. Comparing floats\obj\Debug\15. Comparing floats.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\15. Comparing floats\obj\Debug\_15.Comparing_floats.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\15. Comparing floats\obj\Debug\_15.Comparing_floats.pdb

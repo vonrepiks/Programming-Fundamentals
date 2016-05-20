@@ -1,0 +1,6 @@
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\09. Reversed chars\obj\Debug\09. Reversed chars.csprojResolveAssemblyReference.cache
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+D:\SoftUni\3. Programming Basics Exams\Data Types and Methods - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb
